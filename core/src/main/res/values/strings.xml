@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">core</string>
+
+    <string name="unknown_host_exception">No hay conección a internet</string>
+    <string name="wrong_user_or_password">Usuario o contraseña incorrecta</string>
+    <string name="unknown_error">Error desconocido</string>
+    <string name="error_sign_up">Error al registrarse</string>
+    <string name="error_sign_in">Error al iniciar sesión</string>
+    <string name="user_already_exists">El usuario ya existe</string>
+    <string name="there_was_an_error">Hubo un error</string>
+    <string name="error_adding_dog">Error al agregar al perro</string>
+
+</resources>
